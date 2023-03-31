@@ -1,4 +1,4 @@
-### <Opa, eu sou o Ruan, e eu sou um 'programador precoce'> 👋
+## <Opa, eu sou o Ruan, e eu sou um 'programador precoce'> 👋
 
 Sou um programador desde novo, porém recentemente ingressei de vez na área, aprendendo Python, Html e CSS. Além de agora lecionar sobre Poturgol Studio informalmente.
 
