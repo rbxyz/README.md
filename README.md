@@ -2,10 +2,7 @@
 
 Sou um programador desde novo, porém recentemente ingressei de vez na área, aprendendo Python, Html e CSS. Além de agora lecionar sobre Poturgol Studio informalmente.
 
-Atualmente me encontro em alguns projetos como o IFSocial (https://github.com/cocacolacomvodka/IFSocial)
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
-
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Atualmente me encontro em alguns projetos como o IFSocial (https://github.com/cocacolacomvodka/IFSocial), e em alguns particulares que envolvem meros testes nos meus repositórios.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
