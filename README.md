@@ -1,9 +1,10 @@
-# <Opa, eu sou o Ruan, e eu sou um programador precoce> 👋
+# <Opa, eu sou o Ruan, e eu sou um 'programador precoce'!> 👋
 
 Sou um programador desde novo, porém recentemente ingressei de vez na área, aprendendo Python, Html e CSS. Além de agora lecionar sobre Poturgol Studio informalmente.
 
-Atualmente me encontro em alguns projetos como o 
->[IFSocial] (https://github.com/cocacolacomvodka/IFSocial), e em alguns particulares que envolvem meros testes nos meus repositórios.
+Atualmente me encontro em alguns projetos como:
+>[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
+e em alguns particulares que envolvem meros testes nos meus [repositórios](https://github.com/rbxyz?tab=repositories).
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
