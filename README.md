@@ -1,4 +1,4 @@
-# ![https://mouredev.com] Opa, eu sou o Ruan 👋
+# ![https://mouredev.com]! Opa, eu sou o Ruan 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
