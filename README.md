@@ -6,8 +6,6 @@ Atualmente me encontro em alguns projetos como:
 >[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
 e em alguns particulares que envolvem meros testes nos meus [repositórios](https://github.com/rbxyz?tab=repositories).
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
-
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
