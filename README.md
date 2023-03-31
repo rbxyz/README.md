@@ -1,4 +1,4 @@
-# !Opa, eu sou o Ruan, e eu sou um programador precoce! 👋
+# <Opa, eu sou o Ruan, e eu sou um programador precoce> 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
