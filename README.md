@@ -26,4 +26,5 @@ Dentre outros adversos....
 [![Email](https://img.shields.io/badge/rbcr4z1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](gmail: rbcr4z1@gmail.com)
 </br>
 [![Web](https://img.shields.io/badge/IFSocial-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]([https://mouredev.com](https://github.com/cocacolacomvodka/IFSocial/discussions/ifsocialproject.my.canva.site))
+<br>
 </>
