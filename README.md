@@ -2,7 +2,8 @@
 
 Sou um programador desde novo, porém recentemente ingressei de vez na área, aprendendo Python, Html e CSS. Além de agora lecionar sobre Poturgol Studio informalmente.
 
-Atualmente me encontro em alguns projetos como o [IFSocial] (https://github.com/cocacolacomvodka/IFSocial), e em alguns particulares que envolvem meros testes nos meus repositórios.
+Atualmente me encontro em alguns projetos como o 
+>[IFSocial] (https://github.com/cocacolacomvodka/IFSocial), e em alguns particulares que envolvem meros testes nos meus repositórios.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
