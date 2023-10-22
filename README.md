@@ -1,6 +1,6 @@
-## <Opa, eu sou o Ruan, e eu sou um 'programador precoce'> 👋 </>
+## <fala querido, eu sou o Ruan Gabriel, trás um café namoral> 👋 </>
 
-Sou um programador desde novo, porém recentemente ingressei de vez na área, aprendendo Python, Html e CSS. Além de agora lecionar sobre Poturgol Studio informalmente.
+gosto de programar, porém recentemente embalei de vez na área, sei Python, HTML5 e CSS3. O homi da aula de Poturgol Studio informalmente pra 1º ano E.M.
 
 Atualmente me encontro em alguns projetos como:
 >[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
