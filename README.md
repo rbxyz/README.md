@@ -1,5 +1,9 @@
 ## <fala querido, eu sou o Ruan Gabriel, trás um café namoral> 👋 </>
 
+👾 | 17 anos
+📚 | IFSul V.A - T.I
+💻 | CEO Allpines
+
 gosto de programar, porém recentemente embalei de vez na área, sei Python, HTML5 e CSS3. O homi da aula de Poturgol Studio informalmente pra 1º ano E.M.
 
 Atualmente me encontro em alguns projetos como:
